@@ -1,5 +1,9 @@
 # svelte-transitions-morph changelog
 
+## 1.1.0
+
+* update utilities files
+
 ## 1.0.1
 
 * Readme & Demos
